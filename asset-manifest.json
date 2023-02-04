@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rokk-test-ui/static/css/main.d7211798.css",
-    "main.js": "/rokk-test-ui/static/js/main.ec639523.js",
+    "main.js": "/rokk-test-ui/static/js/main.65ed7006.js",
     "index.html": "/rokk-test-ui/index.html",
     "main.d7211798.css.map": "/rokk-test-ui/static/css/main.d7211798.css.map",
-    "main.ec639523.js.map": "/rokk-test-ui/static/js/main.ec639523.js.map"
+    "main.65ed7006.js.map": "/rokk-test-ui/static/js/main.65ed7006.js.map"
   },
   "entrypoints": [
     "static/css/main.d7211798.css",
-    "static/js/main.ec639523.js"
+    "static/js/main.65ed7006.js"
   ]
 }
